@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/coffeePage"
+        android:icon="@drawable/coffee"
+        android:title="Coffee" />
+    <item
+        android:id="@+id/muffinPage"
+        android:icon="@drawable/muffin"
+        android:title="Muffin" />
+    <item
+        android:id="@+id/teaPage"
+        android:icon="@drawable/tea"
+        android:title="Tea" />
+    <item
+        android:id="@+id/donutsPage"
+        android:icon="@drawable/donutsicon"
+        android:title="Donuts" />
+</menu>
